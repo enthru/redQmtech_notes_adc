@@ -11,7 +11,7 @@ Anyway it's working. So it's usable.
 It has LPF in the input- cutoff frequency is around 60MHz.
 
 **WARNING!**
-This board ground near the pinout MUST BE connected to the FPGA board groud near the pinout, I forgot to add gound pin so I scratched mask near pinout and solder ground by wire.
+This board ground near the pinout MUST BE connected to the FPGA board groud near the pinout, I forgot to add ground pin so I scratched mask near pinout and solder ground by wire.
 
 Use R6, R7, R8, R9 resistors to choose output mode of the ADC (check datasheet, but for my project R9 not soldered, R8 = 0R, R7 = 0R, R6 not soldered).
 
