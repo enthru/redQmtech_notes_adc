@@ -24,4 +24,4 @@ Github for Xilinx bitstream - https://github.com/enthru/redQmtech_notes
 
 Some history of the project - https://enthru.net/?tag=qmtech
 
-EasyEDA project of the example ADC board with two LTC2208 (not tested yet) - https://oshwlab.com/neuroworker/redqmtechadc
+EasyEDA project of the example ADC board with two LTC2208 - https://oshwlab.com/neuroworker/redqmtechadc
